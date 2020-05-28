@@ -505,7 +505,7 @@ p.counter {
 	text-transform:uppercase;
 }
 .services h3{
-	color:#efbe0c;
+	color:black;
 }
 .ser-w3l span {
     font-size: 3em;
@@ -519,7 +519,7 @@ p.counter {
 	font-family: 'Gudea', sans-serif;
 }
 .ser-w3l p {
-    color: #999;
+    color: #efbe0c;
     font-size: 1.1em;
 	line-height: 1.9em;
 }
