@@ -1009,18 +1009,20 @@ figure.effect-apollo:hover p {
     font-size: 14px;
     padding: 14px 17px 14px;
     outline: none;
-    color: #FFF;
+    color:black;
     border:none;
-	border-bottom:3px solid #efbe0c;
+/*	border-bottom:3px solid #efbe0c;
+ background: #212121;*/
     margin: 0 0 20px;
-      background: #212121;
+     
 }
 .contact_form input[type="submit"]{
     padding: 13px 30px;
-    border: 2px solid #efbe0c;
+	/*border: 2px solid #efbe0c;*/
+	 background: #212121;
     font-size: 16px;
     color: #fff;
-    background: #212121;
+   
     text-decoration: none;
     outline: none;
 	margin-top: 12px;
@@ -1047,14 +1049,15 @@ figure.effect-apollo:hover p {
     padding: 14px 17px 14px;
     outline: none;
     border:none;
-	border-bottom:3px solid #efbe0c;
+/*	border-bottom:3px solid #efbe0c;
+	background: #212121;*/
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     resize: none;
-    color: #FFF;
-    height: 190px;
-       background: #212121;
+    color:black;
+    height: 100px;
+       
 }
 #contact form {
     width: 80%;
@@ -2239,4 +2242,6 @@ figure.effect-apollo:hover p {
 		left: 9%;
 	}
 }
+
+
 /*-- //Responsive --*/
